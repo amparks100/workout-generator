@@ -9,6 +9,9 @@ small Go http service to generate workouts
 ## Routes
 
 `/` - Landing page
+
 `/all` - list all workouts in repo
+
 `/arm` - list all of the arm workouts in repo
+
 `/generate` - generates a workout consisting of 4 workouts from the repo
